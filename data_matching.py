@@ -49,4 +49,8 @@ senate_scores["ref"] = senate_scores["state"] + ' ' + senate_scores["name"]
 
 congress_scores = pd.concat([house_scores, senate_scores])
 
-ree = pd.merge(congress_scores, handles, left_on = 'ref', right_on = 'State')
+updatedIdeology = pd.merge(congress_scores, handles, left_on = 'ref', right_on = 'State')
+
+updatedIdeology.drop(['ref', 'name', 'last_name', 'state', 'district', 'id', 'percentile', 'rank_from_high', 'rank_from_low'], axis = 1, inplace = True)
+
+updatedIdeology.to_csv('clean_ideology_scores.csv', index = False)

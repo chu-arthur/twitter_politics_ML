@@ -1,0 +1,528 @@
+ideology,State,Name,Twitter Handle
+0.0,CA-13,Barbara Lee,@RepBarbaraLee
+0.028262309,IL-09,"Janice ""Jan"" D. Schakowsky",@janschakowsky
+0.034267418,DC Delegate,Eleanor Holmes Norton,@EleanorNorton
+0.059868036,NJ-12,Bonnie Watson Coleman,@RepBonnie
+0.061171157999999996,MA-07,Ayanna Pressley,@RepPressley
+0.06438538099999999,TX-18,Sheila Jackson Lee,@JacksonLeeTX18
+0.07033587200000001,AZ-03,Raúl M. Grijalva,@RepRaulGrijalva
+0.072226869,NY-13,Adriano Espaillat,@RepEspaillat
+0.074098466,MN-05,Ilhan Omar,@Ilhan
+0.07462774700000001,NM-01,Debra Haaland,@RepDebHaaland
+0.07635437099999999,WI-04,Gwen Moore,@RepGwenMoore
+0.08128510900000001,MI-13,Rashida Tlaib,@RepRashida
+0.08168801099999999,OR-03,Earl Blumenauer,@repblumenauer
+0.083132613,IL-04,"Jesús ""Chuy"" García",@RepChuyGarcia
+0.08706479199999999,NY-09,Yvette D. Clarke,@RepYvetteClarke
+0.09157577300000001,WA-07,Pramila Jayapal,@RepJayapal
+0.094838646,NY-14,Alexandria Ocasio-Cortez,@RepAOC
+0.10558504,FL-24,Frederica S. Wilson,@RepWilson
+0.110339232,CA-17,Ro Khanna,@RepRoKhanna
+0.11198688400000001,MA-02,James P. McGovern,@RepMcGovern
+0.11369034300000001,CA-47,Alan S. Lowenthal,@RepLowenthal
+0.11491176300000001,TN-09,Steve Cohen,@RepCohen
+0.11832181800000001,CA-11,Mark DeSaulnier,@RepDeSaulnier
+0.120740784,MD-08,Jamie Raskin,@RepRaskin
+0.133996806,CA-37,Karen Bass,@RepKarenBass
+0.140416294,NY-15,José E. Serrano,@RepJoseSerrano
+0.141041781,CA-40,Lucille Roybal-Allard,@RepRoybalAllard
+0.141178986,CA-27,Judy Chu,@RepJudyChu
+0.145466829,CA-32,Grace F. Napolitano,@gracenapolitano
+0.14725978,NY-10,Jerrold Nadler,@RepJerryNadler
+0.152708863,FL-20,Alcee L. Hastings,@RepHastingsFL
+0.159405966,CT-05,Jahana Hayes,@RepJahanaHayes
+0.16092434,NY-12,Carolyn B. Maloney,@RepMaloney
+0.164519,NY-05,Gregory W. Meeks,@RepGregoryMeeks
+0.165519335,CA-41,Mark Takano,@RepMarkTakano
+0.165859329,GA-04,"Henry C. ""Hank"" Johnson Jr.",@RepHankJohnson
+0.167265006,NY-07,Nydia M. Velázquez,@NydiaVelazquez
+0.167886421,WA-09,Adam Smith,@RepAdamSmith
+0.16891255800000002,IN-07,André Carson,@RepAndreCarson
+0.170008452,MN-04,Betty McCollum,@BettyMcCollum04
+0.173118723,WI-02,Mark Pocan,@repmarkpocan
+0.175041599,MI-09,Sander M. Levin,@RepAndyLevin
+0.176194183,MS-02,Bennie G. Thompson,@BennieGThompson
+0.176325368,CA-44,Nanette Diaz Barragán,@RepBarragan
+0.177351797,FL-23,Debbie Wasserman Schultz,@RepDWStweets
+0.178380565,MI-14,Brenda L. Lawrence,@RepLawrence
+0.180214071,GA-05,John Lewis,@repjohnlewis
+0.181730793,TX-30,Eddie Bernice Johnson,@RepEBJ
+0.182897266,NY-06,Grace Meng,@RepGraceMeng
+0.18542667300000001,CA-43,Maxine Waters,@RepMaxineWaters
+0.187455476,IL-01,Bobby L. Rush,@RepBobbyRush
+0.18881165100000002,NJ-06,"Frank Pallone, Jr.",@FrankPallone
+0.19371306100000002,CA-02,Jared Huffman,@RepHuffman
+0.195374143,PA-03,Dwight Evans,@RepDwightEvans
+0.198913085,NY-16,Eliot L. Engel,@RepEliotEngel
+0.19939300199999999,CA-28,Adam B. Schiff,@RepAdamSchiff
+0.200130438,MA-04,Joseph P. Kennedy,@RepJoeKennedy
+0.20055063199999998,PA-05,Mary Gay Scanlon,@RepMGS
+0.201305097,MA-05,Katherine M. Clark,@RepKClark
+0.201731302,CA-14,Jackie Speier,@RepSpeier
+0.201788601,CA-34,Jimmy Gomez,@RepJimmyGomez
+0.203687466,MI-12,Debbie Dingell,@RepDebDingell
+0.203715833,OR-01,Suzanne Bonamici,@RepBonamici
+0.204307391,FL-14,Kathy Castor,@USRepKCastor
+0.20642266899999998,CA-26,Julia Brownley,@RepBrownley
+0.20747330100000003,NJ-10,"Donald M. Payne, Jr.",@RepDonaldPayne
+0.207600917,RI-01,David N. Cicilline,@davidcicilline
+0.20830137399999998,NC-12,Alma S. Adams,@RepAdams
+0.211321697,FL-09,Darren Soto,@RepDarrenSoto
+0.21174354399999998,OH-11,Marcia L. Fudge,@RepMarciaFudge
+0.211782269,FL-10,Val Butler Demings,@RepValDemings
+0.214613732,TX-29,Sylvia Garcia,@RepSylviaGarcia
+0.215001195,VA-03,"Robert C. ""Bobby"" Scott",@BobbyScott
+0.21585105,CA-33,Ted Lieu,@RepTedLieu
+0.21649458100000002,CA-29,Tony Cárdenas,@RepCardenas
+0.216844533,CA-38,Linda T. Sánchez,@RepLindaSanchez
+0.21931161,CT-03,Rosa L. DeLauro,@rosadelauro
+0.21972857699999998,CA-09,Jerry McNerney,@RepMcNerney
+0.220107534,IL-07,Danny K. Davis,@RepDannyDavis
+0.220941298,PA-04,Madeleine Dean,@RepDean
+0.222277819,TX-09,Al Green,@RepAlGreen
+0.222291675,CA-18,Anna G. Eshoo,@RepAnnaEshoo
+0.226163053,CO-01,Diana DeGette,@RepDianaDeGette
+0.22783352,FL-26,Debbie Mucarsel-Powell,@RepDMP
+0.23091540600000002,NM-03,Ben Ray Luján,@repbenraylujan
+0.231361499,IL-02,Robin L. Kelly,@RepRobinKelly
+0.23572471600000003,MD-03,John P. Sarbanes,@RepSarbanes
+0.23590027800000002,VA-04,A. Donald McEachin,@RepMcEachin
+0.236380895,VA-08,"Donald S. Beyer, Jr.",@RepDonBeyer
+0.23768804699999999,WA-01,Suzan K. DelBene,@RepDelBene
+0.23810018100000002,MO-05,Emanuel Cleaver,@repcleaver
+0.240744163,TX-16,Veronica Escobar,@RepEscobar
+0.242260368,LA-02,Cedric L. Richmond,@RepRichmond
+0.242481146,NY-08,Hakeem S. Jeffries,@RepJeffries
+0.24252676199999998,CA-45,Katie Porter,@RepKatiePorter
+0.242628681,NV-04,Steven Horsford,@RepHorsford
+0.243502893,NV-01,Dina Titus,@repdinatitus
+0.244526925,RI-02,James R. Langevin,@JimLangevin
+0.24489096,NY-20,Paul Tonko,@RepPaulTonko
+0.245139241,MD-04,Anthony G. Brown,@RepAnthonyBrown
+0.24535310899999999,IL-06,Sean Casten,@RepCasten
+0.24631613600000002,NY-17,Nita M. Lowey,@NitaLowey
+0.246632795,CA-06,Doris O. Matsui,@DorisMatsui
+0.248470412,FL-27,Donna E. Shalala,@RepShalala
+0.24885379,CA-51,Juan Vargas,@RepJuanVargas
+0.249351498,MO-01,Wm. Lacy Clay Jr,@LacyClayMO1
+0.250276497,CA-35,Norma J. Torres,@NormaJTorres
+0.250339586,IL-05,Mike Quigley,@RepMikeQuigley
+0.25052302600000004,KY-03,John A. Yarmuth,@RepJohnYarmuth
+0.25226905,CA-15,Eric Swalwell,@RepSwalwell
+0.253633145,SC-06,James E. Clyburn,@WhipClyburn
+0.25387143,AZ-07,Ruben Gallego,@RepRubenGallego
+0.255831593,MA-08,Stephen F. Lynch,@RepStephenLynch
+0.257788687,CA-53,Susan A. Davis,@RepSusanDavis
+0.25875660899999997,ME-01,Chellie Pingree,@chelliepingree
+0.258935347,OH-03,Joyce Beatty,@RepBeatty
+0.259890213,CA-31,Pete Aguilar,@RepPeteAguilar
+0.260857985,MA-03,Lori Trahan,@RepLoriTrahan
+0.26177295,CA-19,Zoe Lofgren,@RepZoeLofgren
+0.262525983,VA-10,Jennifer Wexton,@RepWexton
+0.26539383,CA-24,Salud O. Carbajal,@RepCarbajal
+0.265396777,FL-05,"Al Lawson, Jr.",@RepAlLawsonJr
+0.266402123,NY-25,Joseph Morelle,@RepJoeMorelle
+0.269067606,NC-04,David E. Price,@RepDavidEPrice
+0.269101493,NC-01,G. K. Butterfield,@GKButterfield
+0.269189591,NJ-08,Albio Sires,@RepSires
+0.269627913,WA-02,Rick Larsen,@RepRickLarsen
+0.271169055,OR-04,Peter A. DeFazio,@RepPeterDeFazio
+0.27145658699999997,TX-20,Joaquin Castro,@JoaquinCastrotx
+0.273171989,TX-33,Marc A. Veasey,@RepVeasey
+0.274000547,PA-07,Susan Wilk,@RepSusanWild
+0.275667117,FL-21,Lois Frankel,@RepLoisFrankel
+0.27604686300000003,VT - At Large,Peter Welch,@PeterWelch
+0.276690015,NY-26,Brian Higgins,@RepBrianHiggins
+0.277104623,OH-09,Marcy Kaptur,@RepMarcyKaptur
+0.277149713,VA-11,Gerald E. Connolly,@GerryConnolly
+0.27774059,CA-49,Mike Levin,@RepMikeLevin
+0.278042646,HI-01,Ed Case,@RepEdCase
+0.281630922,NJ-09,"Bill Pascrell, Jr.",@BillPascrell
+0.282401235,CT-01,John B. Larson,@RepJohnLarson
+0.282740386,CA-05,Mike Thompson,@RepThompson
+0.283273979,CT-04,James A. Himes,@jahimes
+0.286936666,TX-35,Lloyd Doggett,@RepLloydDoggett
+0.287487736,IL-14,Lauren Underwood,@RepUnderwood
+0.287575495,CO-02,Joe Neguse,@RepJoeNeguse
+0.290760992,PA-02,Brendan Boyle,@CongBoyle
+0.290963394,DE - At Large,Lisa Blunt Rochester,@RepLBR
+0.29157802,NY-18,Sean Patrick Maloney,@RepSeanMaloney
+0.293357315,FL-22,Theodore E. Deutch,@RepTedDeutch
+0.293467425,CA-03,John Garamendi,@RepGaramendi
+0.295717511,GA-13,David Scott,@repdavidscott
+0.29604573,MA-09,William R. Keating,@USRepKeating
+0.29788418,PA-08,Matt Cartwright,@RepCartwright
+0.299631964,IL-11,Bill Foster,@RepBillFoster
+0.302096001,MI-05,Daniel T. Kildee,@RepDanKildee
+0.305698925,HI-02,Tulsi Gabbard,@TulsiPress
+0.305799995,OH-13,Tim Ryan,@RepTimRyan
+0.30834113399999996,WA-08,Kim Schrier,@RepKimSchrier
+0.309226526,CA-39,Gilbert Ray Jr. Cisneros,@RepGilCisneros
+0.310149675,GA-06,Lucy McBath,@RepLucyMcBath
+0.310892447,CA-21,TJ Cox,@RepTjCox
+0.311382232,NJ-07,Tom Malinowski,@RepMalinowski
+0.312023215,IL-08,Raja Krishnamoorthi,@CongressmanRaja
+0.31271378,WA-10,Denny Heck,@RepDennyHeck
+0.312906005,MD-05,Steny H. Hoyer,@LeaderHoyer
+0.313338613,MA-01,Richard E. Neal,@RepRichardNeal
+0.313638038,MA-06,Seth Moulton,@teammoulton
+0.316697463,FL-13,Charlie Crist,@RepCharlieCrist
+0.318143254,CA-30,Brad Sherman,@BradSherman
+0.31858399600000004,CA-36,Raul Ruiz,@CongressmanRuiz
+0.319939717,CA-20,Jimmy Panetta,@RepJimmyPanetta
+0.320004738,PA-18,Michael Doyle,@USRepMikeDoyle
+0.32119135,MD-06,David Trone,@RepDavidTrone
+0.321559667,AL-07,Terri A. Sewell,@RepTerriSewell
+0.32509486,CA-46,J. Luis Correa,@RepLouCorrea
+0.326890584,CO-06,Jason Crow,@RepJasonCrow
+0.330825913,CO-07,Ed Perlmutter,@RepPerlmutter
+0.331129121,IN-01,Peter J. Visclosky,@RepVisclosky
+0.332585061,CT-02,Joe Courtney,@RepJoeCourtney
+0.33668216799999995,CA-48,Harley Rouda,@RepHarley
+0.337752317,IL-10,Bradley Scott Schneider,@RepSchneider
+0.33931668299999995,TN-05,Jim Cooper,@repjimcooper
+0.34044602399999996,NJ-01,Donald Norcross,@DonaldNorcross
+0.34071578700000005,NH-01,Chris Pappas,@RepChrisPappas
+0.342612409,IL-17,Cheri Bustos,@RepCheri
+0.34297034600000004,CA-12,Nancy Pelosi,@SpeakerPelosi
+0.34568512700000004,AZ-02,Ann Kirkpatrick,@RepKirkpatrick
+0.348809679,NY-03,Thomas R.. Suozzi,@RepTomSuozzi
+0.35014126799999995,CA-52,Scott H. Peters,@RepScottPeters
+0.35415646100000003,MI-11,Haley Stevens,@RepHaleyStevens
+0.360723908,KS-03,Sharice Davids,@RepDavids
+0.363458675,NH-02,Ann M. Kuster,@RepAnnieKuster
+0.370999043,CA-07,Ami Bera,@RepBera
+0.372106667,CA-16,Jim Costa,@RepJimCosta
+0.372239821,NY-04,Kathleen M. Rice,@RepKathleenRice
+0.374766229,GA-02,Sanford D. Bishop,@SanfordBishop
+0.375308473,TX-07,Lizzie Fletcher,@RepFletcher
+0.375392216,PA-06,Chrissy Houlahan,@RepHoulahan
+0.382228055,MI-08,Elissa Slotkin,@RepSlotkin
+0.385056464,NV-03,Susie Lee,@RepSusieLee
+0.388907355,MD-02,C. A. Dutch Ruppersberger,@Call_Me_Dutch
+0.39349515,PA-17,Conor Lamb,@RepConorLamb
+0.393820665,IL-03,Daniel Lipinski,@RepLipinski
+0.394523061,MN-02,Angie Craig,@RepAngieCraig
+0.39746605799999996,NY-19,Antonio Delagado,@repdelgado
+0.39851825,AZ-09,Greg Stanton,@RepGregStanton
+0.399836966,MI-03,Justin Amash,@justinamash
+0.40318817,NJ-03,Andy Kim,@RepAndyKimNJ
+0.403531259,WA-06,Derek Kilmer,@RepDerekKilmer
+0.40477184200000005,NJ-11,Mikie Sherrill,@RepSherrill
+0.406411829,FL-07,Stephanie N. Murphy,@RepStephMurphy
+0.409211237,TX-34,Filemon Vela,@RepFilemonVela
+0.41000134200000005,NY-11,Max Rose,@RepMaxRose
+0.41077789299999995,TX-32,Colin Allred,@RepColinAllred
+0.41315077,CA-10,Josh Harder,@RepJoshHarder
+0.415319789,CA-23,Kevin McCarthy,@GOPLeader
+0.41560558299999995,OR-05,Kurt Schrader,@RepSchrader
+0.417835106,VA-02,Elaine Luria,@RepElaineLuria
+0.42352212200000006,IA-01,Abby Finkenauer,@RepFinkenauer
+0.425693835,IA-02,David Loebsack,@daveloebsack
+0.434895023,NM-02,Xochitl Torres Small,@RepTorresSmall
+0.44472815600000004,ME-02,Jared Golden,@RepGolden
+0.44670093200000005,UT-04,Ben McAdams,@RepBenMcAdams
+0.45762093600000003,CA-22,Devin Nunes,@RepDevinNunes
+0.460382629,AZ-01,Tom O'Halleran,@RepOHalleran
+0.46218559200000003,WI-03,Ron Kind,@RepRonKind
+0.46357230899999996,GA-07,Rob Woodall,@RepRobWoodall
+0.469605933,TX-15,Vicente Gonzalez,@RepGonzalez
+0.47356501799999995,NC-09,Vacant,
+0.47409952,OK-05,Kendra Horn,@RepKendraHorn
+0.481679862,VA-07,Abigail Spanberger,@RepSpanberger
+0.493288351,TX-13,Mac Thornberry,@MacTXPress
+0.504304767,IA-03,Cynthia Axne,@RepCindyAxne
+0.5114675160000001,KY-05,Harold Rogers,@RepHalRogers
+0.51611852,ID-02,Michael K. Simpson,@CongMikeSimpson
+0.517917028,TX-12,Kay Granger,@RepKayGranger
+0.5206305960000001,OK-03,Frank D. Lucas,@RepFrankLucas
+0.521645879,KY-04,Thomas Massie,@RepThomasMassie
+0.5238006789999999,SC-01,Joe Cunningham,@RepCunningham
+0.52395538,NC-05,Virginia Foxx,@virginiafoxx
+0.525463618,MN-03,Dean Phillips,@RepDeanPhillips
+0.52678139,NY-22,Anthony Brindisi,@RepBrindisi
+0.532952741,IN-09,Trey Hollingsworth,@RepTrey
+0.533425998,TX-31,John R. Carter,@JudgeCarter
+0.533791392,OR-02,Greg Walden,@repgregwalden
+0.534390255,NC-10,Patrick T. McHenry,@PatrickMcHenry
+0.539393398,NY-24,John Katko,@RepJohnKatko
+0.5410369,FL-16,Vern Buchanan,@VernBuchanan
+0.545379163,NC-03,Walter B. Jones,@RepWalterJones
+0.547139791,NY-23,Tom Reed,@RepTomReed
+0.553494002,TX-28,Henry Cuellar,@RepCuellar
+0.5542533829999999,PA-12,Vacant,
+0.5544167329999999,NJ-02,Jefferson Van Dress,@CongressmanJVD
+0.554741535,MI-06,Fred Upton,@RepFredUpton
+0.55498708,AL-02,Martha Roby,@RepMarthaRoby
+0.556464005,NY-02,Peter T. King,@RepPeteKing
+0.5624846170000001,WA-03,Jaime Herrera Beutler,@HerreraBeutler
+0.568217949,NJ-04,Christopher H. Smith,@RepChrisSmith
+0.573307586,TN-06,John Rose,@RepJohnRose
+0.574727078,GA-09,Doug Collins,@RepDougCollins
+0.57674211,AK - At Large,Don Young,@repdonyoung
+0.583419232,LA-01,Steve Scalise,@SteveScalise
+0.584445538,TX-08,Kevin Brady,@RepKevinBrady
+0.585430215,GA-14,Tom Graves,@RepTomGraves
+0.588398572,ID-01,Russ Fulcher,@RepRussFulcher
+0.589203645,TX-21,Chip Roy,@RepChipRoy
+0.5904369429999999,VA-09,H. Morgan Griffith,@RepMGriffith
+0.590519639,NV-02,Mark E. Amodei,@MarkAmodeiNV2
+0.590760472,LA-06,Garret Graves,@RepGarretGraves
+0.590954624,WY - At Large,Liz Cheney,@RepLizCheney
+0.592498376,AL-03,Mike Rogers,@RepMikeRogersAL
+0.593328105,FL-19,Francis Rooney,@RepRooney
+0.595645883,TX-10,Michael T. McCaul,@RepMcCaul
+0.596071632,WI-01,Bryan Steil,@RepBryanSteil
+0.59660347,TX-03,Van Taylor,@RepVanTaylor
+0.59698933,MO-06,Sam Graves,@RepSamGraves
+0.597272989,PA-01,Brian Fitzpatrick,@RepBrianFitz
+0.599341628,AL-04,Robert B. Aderholt,@Robert_Aderholt
+0.602180619,UT-01,Rob Bishop,@RepRobBishop
+0.606106602,SC-07,Tom Rice,@RepTomRice
+0.608423587,AR-03,Steve Womack,@rep_stevewomack
+0.60946907,IL-15,John Shimkus,@RepShimkus
+0.611850827,FL-25,Mario Diaz-Balart,@MarioDB
+0.613099856,IN-06,Greg Pence,@RepGregPence
+0.6143815810000001,TX-26,Michael C. Burgess,@michaelcburgess
+0.6174665739999999,NJ-05,Josh Gottheimer,@RepJoshG
+0.617585814,OH-14,David P. Joyce,@RepDaveJoyce
+0.620913661,ND - At Large,Kelly Armstrong,@RepArmstrongND
+0.620949443,MN-07,Collin C. Peterson,
+0.6228375829999999,SC-04,William Timmons,@reptimmons
+0.622959375,OH-04,Jim Jordan,@Jim_Jordan
+0.624450078,SD - At Large,Dusty Johnson,@RepDustyJohnson
+0.625106219,WI-05,"F. James Sensenbrenner, Jr.",@JimPressOffice
+0.628196281,UT-02,Chris Stewart,@RepChrisStewart
+0.629182195,OH-16,Anthony Gonzalez,@RepAGonzalez
+0.629448268,NC-02,George Holding,@RepHolding
+0.630573081,TN-02,Tim Burchett,@RepTimBurchett
+0.637956011,CA-04,Tom McClintock,@RepMcClintock
+0.638791372,CA-50,Duncan Hunter,@Rep_Hunter
+0.639345107,OH-08,Warren Davidson,@WarrenDavidson
+0.639919247,MI-01,Jack Bergman,@RepJackBergman
+0.64172384,TX-23,Will Hurd,@HurdOnTheHill
+0.642065546,IL-16,Adam Kinzinger,@RepKinzinger
+0.642833726,NY-01,Lee M. Zeldin,@RepLeeZeldin
+0.644688966,UT-03,John R. Curtis,@RepJohnCurtis
+0.646932219,CA-08,Paul Cook,@RepPaulCook
+0.647662141,AL-06,Gary J. Palmer,@USRepGaryPalmer
+0.647822958,CA-42,Ken Calvert,@KenCalvert
+0.648399002,AZ-06,David Schweikert,@RepDavid
+0.64866631,PA-09,Daniel Meuser,@RepMeuser
+0.6513088229999999,VA-06,Ben Cline,@RepBenCline
+0.653632,FL-11,Daniel Webster,@RepWebster
+0.654999223,GA-03,A. Drew Ferguson,@RepDrewFerguson
+0.655390544,LA-03,Clay Higgins,@RepClayHiggins
+0.656065886,WV-03,Carol Miller,@RepCarolMiller
+0.658976746,IN-05,Susan W. Brooks,@SusanWBrooks
+0.661825628,MS-03,Michael Guest,@RepMichaelGuest
+0.663534576,PA-11,Lloyd Smucker,@RepSmucker
+0.663547119,TX-25,Roger Williams,@RepRWilliams
+0.663567433,MI-07,Tim Walberg,@RepWalberg
+0.6641190220000001,GA-08,Austin Scott,@AustinScottGA08
+0.664807942,TN-03,"Charles J. ""Chuck"" Fleischmann",@RepChuck
+0.664842782,KY-02,Brett Guthrie,@RepGuthrie
+0.665526327,NE-03,Adrian Smith,@RepAdrianSmith
+0.667675455,CO-04,Ken Buck,@RepKenBuck
+0.668470935,TX-19,Jodey C. Arrington,@RepArrington
+0.669250922,WV-01,David B. McKinley,@RepMcKinley
+0.6698499370000001,NE-01,Jeff Fortenberry,@JeffFortenberry
+0.670287835,MS-04,Steven M. Palazzo,@CongPalazzo
+0.6740595640000001,TN-08,David Kustoff,@RepDavidKustoff
+0.6763517290000001,KY-01,James Comer,
+0.677007481,MO-08,Jason Smith,@RepJasonSmith
+0.679522692,KS-04,Ron Estes,@RepRonEstes
+0.681279172,OK-02,Markwayne Mullin,@RepMullin
+0.68176862,AR-02,J. French Hill,@RepFrenchHill
+0.6837458190000001,IN-04,James Baird,@RepJimBaird
+0.6859021279999999,TX-27,Michael Cloud,@RepCloudTX
+0.68921951,TX-24,Kenny Marchant,@RepKenMarchant
+0.690135553,FL-18,Brian J. Mast,@RepBrianMast
+0.690468175,OH-12,Troy Balderson,@RepBalderson
+0.692199672,OH-02,Brad R. Wenstrup,@RepBradWenstrup
+0.6925996940000001,MN-08,Pete Stauber,@RepPeteStauber
+0.69364642,IN-08,Larry Bucshon,@RepLarryBucshon
+0.696170341,AR-01,"Eric A. ""Rick"" Crawford",@RepRickCrawford
+0.6972047690000001,MI-02,Bill Huizenga,@RepHuizenga
+0.702154925,TX-01,Louie Gohmert,@replouiegohmert
+0.702225965,FL-02,Neal P. Dunn,@DrNealDunnFL2
+0.702516294,FL-06,Michael Waltz,@RepMichaelWaltz
+0.703733555,WA-04,Dan Newhouse,@RepNewhouse
+0.704258167,OH-15,Steve Stivers,@RepSteveStivers
+0.704693309,TX-11,K. Michael Conaway,@ConawayTX11
+0.706870903,WI-08,Mike Gallagher,@RepGallagher
+0.708102386,MN-01,Jim Hagedorn,@RepHagedorn
+0.709677407,WA-05,Cathy McMorris Rodgers,@cathymcmorris
+0.711004972,MS-01,Trent Kelly,@RepTrentKelly
+0.711768057,IL-18,Darin LaHood,@RepLaHood
+0.713005867,GA-01,"Earl L. ""Buddy"" Carter",@RepBuddyCarter
+0.713791477,GA-11,Barry Loudermilk,@RepLoudermilk
+0.714123237,TX-04,John Ratcliffe,@RepRatcliffe
+0.71667541,MI-04,John R. Moolenaar,@RepMoolenaar
+0.7167690940000001,NY-21,Elise M. Stefanik,@RepStefanik
+0.716771101,TX-05,Lance Gooden,@RepLanceGooden
+0.7195606309999999,IL-13,Rodney Davis,@RodneyDavis
+0.7196357790000001,SC-02,Joe Wilson,@RepJoeWilson
+0.722338747,OH-10,Michael R. Turner,@RepMikeTurner
+0.726784021,CO-03,Scott R. Tipton,@RepTipton
+0.728160455,PA-16,Mike Kelly,@MikeKellyPA
+0.7293026420000001,PA-15,Glenn Thompson,@CongressmanGT
+0.729528684,AL-05,Mo Brooks,@RepMoBrooks
+0.729776768,MN-06,Tom Emmer,@RepTomEmmer
+0.729807636,IL-12,Mike Bost,@RepBost
+0.7314378440000001,MO-07,Billy Long,@USRepLong
+0.731467387,TX-02,Dan Crenshaw,@RepDanCrenshaw
+0.73403132,PA-10,Scott Perry,@RepScottPerry
+0.7356553570000001,LA-04,Mike Johnson,@RepMikeJohnson
+0.738369314,NC-06,Mark Walker,@RepMarkWalker
+0.7393899740000001,TN-04,Scott DesJarlais,@DesJarlaisTN04
+0.739991154,AR-04,Bruce Westerman,@RepWesterman
+0.7400753859999999,PA-13,John Joyce,@RepJohnJoyce
+0.7407912609999999,KY-06,Andy Barr,@RepAndyBarr
+0.7415848979999999,MO-02,Ann Wagner,@RepAnnWagner
+0.742286452,OK-01,Kevin Hern,@repkevinhern
+0.742580754,MT - At Large,Greg Gianforte,
+0.743277959,PA-14,Guy Reschenthaler,@GReschenthaler
+0.744648669,OH-06,Bill Johnson,@RepBillJohnson
+0.7477125590000001,IN-02,Jackie Walorski,@RepWalorski
+0.749758096,TN-07,Mark Green,@RepMarkGreen
+0.7537110159999999,FL-12,Gus M. Bilirakis,@RepGusBilirakis
+0.7554024570000001,NE-02,Don Bacon,@RepDonBacon
+0.755951837,VA-01,Robert J. Wittman,@RobWittman
+0.759447733,NC-08,Richard Hudson,@RepRichHudson
+0.7595846409999999,OK-04,Tom Cole,@TomColeOK04
+0.7597085579999999,MO-03,Blaine Luetkemeyer,@RepBlaine
+0.762988784,VA-05,Denver Riggleman,@RepRiggleman
+0.764564881,MD-01,Andy Harris,@RepAndyHarrisMD
+0.766043087,IA-04,Steve King,
+0.767142364,OH-05,Robert E. Latta,@boblatta
+0.76809658,AL-01,Bradley Byrne,@RepByrne
+0.76926205,FL-15,Dennis A. Ross,
+0.771337183,MI-10,Paul Mitchell,@RepPaulMitchell
+0.773618968,AZ-05,Andy Biggs,@RepAndyBiggsAZ
+0.774149434,LA-05,Ralph Lee Abraham,@RepAbraham
+0.77859536,FL-04,John H. Rutherford,@RepRutherfordFL
+0.779684387,CO-05,Doug Lamborn,@RepDLamborn
+0.781209907,CA-01,Doug LaMalfa,@RepLaMalfa
+0.78153364,GA-12,Rick W. Allen,@RepRickAllen
+0.782183871,NC-07,David Rouzer,@RepDavidRouzer
+0.7872949690000001,FL-03,Ted S. Yoho,@RepTedYoho
+0.791934958,TX-22,Pete Olson,@RepPeteOlson
+0.795846265,IN-03,Jim Banks,@RepJimBanks
+0.803131935,SC-03,Jeff Duncan,@RepJeffDuncan
+0.806735836,TX-17,Bill Flores,@RepBillFlores
+0.816714685,KS-02,Steven Watkins,
+0.817169432,FL-08,Bill Posey,@congbillposey
+0.81816388,TX-36,Brian Babin,@RepBrianBabin
+0.8224772890000001,OH-07,Bob Gibbs,@RepBobGibbs
+0.824014919,FL-17,W. Gregory Steube,@RepGregSteube
+0.832948655,KS-01,Roger W. Marshall,
+0.844024972,OH-01,Steve Chabot,@RepSteveChabot
+0.845584222,WI-06,Glenn Grothman,@RepGrothman
+0.854311039,TN-01,David P. Roe,@DrPhilRoe
+0.869360947,GA-10,Jody B. Hice,@CongressmanHice
+0.878170692,TX-14,"Randy K. Weber, Sr.",@TXRandy14
+0.87888947,AZ-08,Debbie Lesko,@RepDLesko
+0.884611345,NC-13,Ted Budd,@RepTedBudd
+0.888512405,AZ-04,Paul A. Gosar,@RepGosar
+0.891063542,WV-02,Alexander X. Mooney,@RepAlexMooney
+0.893389113,MO-04,Vicky Hartzler,@RepHartzler
+0.8953404420000001,FL-01,Matt Gaetz,@RepMattGaetz
+0.9025201190000001,TX-06,Ron Wright,@RepRonWright
+0.957306885,SC-05,Ralph Norman,@RepRalphNorman
+1.0,NC-11,Mark Meadows,@RepMarkMeadows
+0.0,CA Harris,Kamala D. Harris,@SenKamalaHarris
+0.016944777,VT Sanders,Bernard Sanders,@SenSanders
+0.026050492,NY Gillibrand,Kirsten E. Gillibrand,@gillibrandny
+0.073308438,OR Merkley,Jeff Merkley,@SenJeffMerkley
+0.074523854,NJ Booker,Cory A. Booker,@SenBooker
+0.090611309,HI Hirono,Mazie K. Hirono,@maziehirono
+0.103489426,MA Markey,Edward J. Markey,@SenMarkey
+0.122242581,CT Blumenthal,Richard Blumenthal,@SenBlumenthal
+0.138043936,MN Klobuchar,Amy Klobuchar,@SenAmyKlobuchar
+0.15386643,IL Durbin,Richard J. Durbin,@SenatorDurbin
+0.159264174,RI Reed,Jack Reed,@SenJackReed
+0.162093517,OH Brown,Sherrod Brown,@SenSherrodBrown
+0.17244870699999998,RI Whitehouse,Sheldon Whitehouse,@SenWhitehouse
+0.17386429,OR Wyden,Ron Wyden,@RonWyden
+0.17920303199999998,MN Smith,Tina Smith,@SenTinaSmith
+0.20125526100000002,CT Murphy,Christopher Murphy,@SenMurphyOffice
+0.20566718899999997,VT Leahy,Patrick J. Leahy,@SenatorLeahy
+0.21183637,CA Feinstein,Dianne Feinstein,@SenFeinstein
+0.214100092,WA Murray,Patty Murray,@PattyMurray
+0.221703861,MI Stabenow,Debbie Stabenow,@SenStabenow
+0.223527433,HI Schatz,Brian Schatz,@SenBrianSchatz
+0.2282846,WI Baldwin,Tammy Baldwin,@SenatorBaldwin
+0.243548055,NM Heinrich,Martin Heinrich,@MartinHeinrich
+0.255173973,VA Kaine,Time Kaine,
+0.256294098,MA Warren,Elizabeth Warren,@SenWarren
+0.263632363,IL Duckworth,Tammy Duckworth,@SenDuckworth
+0.275344362,MD Cardin,Benjamin L. Cardin,@SenatorCardin
+0.27822564699999996,NJ Menendez,Robert Menendez,@SenatorMenendez
+0.28095263,NM Udall,Tom Udall,@SenatorTomUdall
+0.284818091,NY Schumer,Charles E. Schumer,@SenSchumer
+0.311118908,WA Cantwell,Maria Cantwell,@SenatorCantwell
+0.317947973,NV Rosen,Jacky Rosen,@SenJackyRosen
+0.319609314,CO Bennet,Michael F. Bennet,@SenatorBennet
+0.339146327,DE Carper,Thomas R. Carper,@SenatorCarper
+0.34413922799999996,NH Shaheen,Jeanne Shaheen,@SenatorShaheen
+0.40087451,VA Warner,Mark R. Warner,@MarkWarner
+0.42348273299999994,NH Hassan,Margaret Wood Hassan,@SenatorHassan
+0.424438131,MI Peters,Gary C. Peters,@SenGaryPeters
+0.442666415,DE Coons,Christopher A. Coons,@ChrisCoons
+0.475743136,MT Tester,Jon Tester,@SenatorTester
+0.5007810429999999,AK Murkowski,Lisa Murkowski,@lisamurkowski
+0.555209204,AL Shelby,Richard C. Shelby,@SenShelby
+0.5556297689999999,ME Collins,Susan M. Collins,@SenatorCollins
+0.62063205,NC Burr,Richard Burr,@SenatorBurr
+0.6371406470000001,OH Portman,Rob Portman,@senrobportman
+0.640535689,AL Jones,Doug Jones,@SenDougJones
+0.64437907,KY McConnell,Mitch McConnell,@SenateMajLdr
+0.645526501,KY Paul,Rand Paul,@RandPaul
+0.690782028,AZ Sinema,Kyrsten Sinema,@SenatorSinema
+0.692468283,TN Alexander,Lamar Alexander,@SenAlexander
+0.701360256,SC Graham,Lindsey Graham,@LindseyGrahamSC
+0.703133604,UT Lee,Mike Lee,@SenMikeLee
+0.706160465,IA Grassley,Chuck Grassley,@ChuckGrassley
+0.7102803040000001,AK Sullivan,Dan Sullivan,@SenDanSullivan
+0.712724503,PA Toomey,Patrick J. Toomey,@SenToomey
+0.713797605,WI Johnson,Ron Johnson,@SenRonJohnson
+0.7173785770000001,UT Romney,Mitt Romney,@SenatorRomney
+0.728713698,CO Gardner,Cory Gardner,@SenCoryGardner
+0.737114479,WV Capito,Shelley Moore Capito,@SenCapito
+0.740080706,NE Sasse,Ben Sasse,@SenSasse
+0.7422806679999999,IN Young,Todd Young,@SenToddYoung
+0.750715817,AZ McSally,Martha McSally,@SenMcSallyAZ
+0.753393215,GA Isakson,Johnny Isakson,@SenatorIsakson
+0.762345353,SD Thune,John Thune,@SenJohnThune
+0.7629071890000001,LA Cassidy,Bill Cassidy,@SenBillCassidy
+0.7925876390000001,KS Moran,Jerry Moran,@JerryMoran
+0.804193038,MO Hawley,Josh Hawley,@SenHawleyPress
+0.8219993409999999,NE Fischer,Deb Fischer,@SenatorFischer
+0.8235673170000001,SC Scott,Tim Scott,@SenatorTimScott
+0.8269140070000001,ND Hoeven,John Hoeven,@SenJohnHoeven
+0.827229335,MO Blunt,Roy Blunt,@RoyBlunt
+0.8297323209999999,WY Enzi,Michael B. Enzi,@SenatorEnzi
+0.8305249859999999,FL Scott,Rick Scott,@SenRickScott
+0.8363947909999999,MT Daines,Steve Daines,@SteveDaines
+0.838055868,ID Crapo,Mike Crapo,@MikeCrapo
+0.8395801620000001,LA Kennedy,John Kennedy,@SenJohnKennedy
+0.8401621859999999,AR Boozman,John Boozman,@JohnBoozman
+0.842401746,WY Barrasso,John Barrasso,@SenJohnBarrasso
+0.844492272,MS Wicker,Roger F. Wicker,@SenatorWicker
+0.854078978,KS Roberts,Pat Roberts,@SenPatRoberts
+0.864519169,NC Tillis,Thom Tillis,@SenThomTillis
+0.8679209370000001,GA Perdue,David Perdue,@sendavidperdue
+0.8718572640000001,MS Hyde-Smith,Cindy Hyde-Smith,@SenHydeSmith
+0.877532407,OK Lankford,James Lankford,@SenatorLankford
+0.880904957,SD Rounds,Mike Rounds,@SenatorRounds
+0.88308179,FL Rubio,Marco Rubio,@SenRubioPress
+0.8870543059999999,ID Risch,James E. Risch,@SenatorRisch
+0.9040279990000001,TX Cornyn,John Cornyn,@JohnCornyn
+0.9049266140000001,AR Cotton,Tom Cotton,@SenTomCotton
+0.908467991,ND Cramer,Kevin Cramer,@SenKevinCramer
+0.91039372,OK Inhofe,James M. Inhofe,@JimInhofe
+0.9137407240000001,TX Cruz,Ted Cruz,@SenTedCruz
+0.914660315,IN Braun,Mike Braun,@SenatorBraun
+0.962108539,IA Ernst,Joni Ernst,@SenJoniErnst
+1.0,TN Blackburn,Marsha Blackburn,@MarshaBlackburn
