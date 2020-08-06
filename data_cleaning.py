@@ -19,3 +19,4 @@ df.drop(['user_id', 'tweet_id', 'tweet_url', 'timestamp',
 #parse website link for website posted(drop bit.ly)
 df['links'] = df['links'].apply(lambda x: x.split('//')[-1].split('/')[0])
 
+df.to_csv('all_tweets.csv', index = False)
